@@ -43,7 +43,7 @@ var CSS_CONFIG = {
 
 var config = (module.exports = {
   context: SRC_PATH,
-  watch: true,
+  // watch: true,
   // output a bundle for the app JS and a bundle for styles
   // eventually we should have multiple (single file) entry points for various pieces of the app to enable code splitting
   entry: {
