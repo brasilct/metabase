@@ -120,7 +120,7 @@ export default class LoginApp extends Component {
       <div className="full bg-white flex flex-column flex-full md-layout-centered">
         <div className="Login-wrapper wrapper Grid Grid--full md-Grid--1of2 relative z2">
           <div className="Grid-cell flex layout-centered text-brand">
-            <LogoIcon className="Logo my4 sm-my0" width={66} height={85} />
+            <LogoIcon className="Logo my4 sm-my0" width={382} height={120} />
           </div>
           <div className="Login-content Grid-cell">
             <form
