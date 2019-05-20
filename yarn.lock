@@ -5195,6 +5195,16 @@ gettext-parser@4.0.0-alpha.0:
     readable-stream "^3.2.0"
     safe-buffer "^5.1.2"
 
+gettext-parser@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/gettext-parser/-/gettext-parser-4.0.0.tgz#0d16f43aa708994411a66c8653785bd7f387f731"
+  integrity sha512-uYT3grq7jtl+cuFlLdJ4ttYiSb48H1XjAlepuJLW8hpugDE/K4cbHS5z7AnEemPNhuavPzbe96YvYgReh2ccTw==
+  dependencies:
+    content-type "^1.0.4"
+    encoding "^0.1.12"
+    readable-stream "^3.3.0"
+    safe-buffer "^5.1.2"
+
 git-up@^2.0.0:
   version "2.0.10"
   resolved "https://registry.yarnpkg.com/git-up/-/git-up-2.0.10.tgz#20fe6bafbef4384cae253dc4f463c49a0c3bd2ec"
@@ -11081,7 +11091,7 @@ readable-stream@^2.3.5:
     string_decoder "~1.1.1"
     util-deprecate "~1.0.1"
 
-readable-stream@^3.2.0:
+readable-stream@^3.2.0, readable-stream@^3.3.0:
   version "3.3.0"
   resolved "https://registry.yarnpkg.com/readable-stream/-/readable-stream-3.3.0.tgz#cb8011aad002eb717bf040291feba8569c986fb9"
   integrity sha512-EsI+s3k3XsW+fU8fQACLN59ky34AZ14LoeVZpYwmZvldCFo0r0gnelwF2TcMjLor/BTL5aDJVBMkss0dthToPw==
